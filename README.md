@@ -1,2 +1,2 @@
 # DataCleaningProject
-This project showcases my skills in cleaning data
+This project showcases my skills data cleaning skills using SQL.
