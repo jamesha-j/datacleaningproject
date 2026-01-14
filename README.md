@@ -1,4 +1,4 @@
-# Cleaning & Transforming Data
+# Nashville Housing Analysis
 
 #### In this project I focused on improving the reliability of housing data through cleaning and transformation techniques, including data parsing, removing any duplicates found, missing value imputation, and standardizing data types for enhanced usability and analytical readiness.
 
